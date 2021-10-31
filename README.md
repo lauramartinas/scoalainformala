@@ -1,1 +1,3 @@
 # scoalainformala
+
+ce este nou
