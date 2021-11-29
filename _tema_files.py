@@ -96,6 +96,6 @@ save_list_to_file('output_data/medium_cars.csv', cars_by_price('medium', lista_m
 save_list_to_file('output_data/expensive_cars.csv', cars_by_price('expensive', lista_masini))
 save_list_to_file('output_data/brand_cars.csv', cars_by_brand('brand', lista_masini))
 
-
+#nu am generat id-ul pentru ca nu am stiut exact cum sa fac, daca vrei sa imi dai o idee, te rog
 
 
